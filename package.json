@@ -1,14 +1,14 @@
 {
   "name": "hnt-wallet-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "wallet.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://code.corp.kofo.io/hnt/hnt-wallet-cli.git"
+    "url": "https://github.com/drunken005/hnt-wallet-cli.git"
   },
   "author": "",
   "license": "ISC",
