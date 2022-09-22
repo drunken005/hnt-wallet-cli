@@ -1,0 +1,17 @@
+# ignore below folders and files
+node_modules/
+.idea/
+log/*.log
+*.log
+.DS_Store*
+*.iml
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+test
+temp
+
+

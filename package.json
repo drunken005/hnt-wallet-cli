@@ -1,0 +1,23 @@
+{
+  "name": "hnt-wallet-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://code.corp.kofo.io/hnt/hnt-wallet-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@helium/address": "^4.3.1",
+    "@helium/crypto": "^4.3.1",
+    "commander": "^9.3.0",
+    "dplatform_plugins": "^2.5.1",
+    "lodash": "^4.17.21"
+  }
+}
